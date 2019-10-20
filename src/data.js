@@ -85,7 +85,7 @@ export default {
         title: "Extremely High",
         image: {
           source:
-            "https://thenypost.files.wordpress.com/2017/11/shutterstock_386306728.jpg?quality=90&strip=all",
+            "https://img.etimg.com/thumb/msid-66779835,width-1200,height-900,resizemode-4,imgsize-99845/in-air-pollution-choking-delhi-is-top-of-the-world.jpg",
           title: "Delhi, India"
         }
       },
