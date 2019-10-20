@@ -28,7 +28,7 @@ export default {
         title: "Food",
         avatar: "cake",
         dark: true,
-        text: ["Drink clear water"]
+        text: ["Avoid food prepared outside "]
       },
       {
         title: "Preservatives",
@@ -73,7 +73,7 @@ export default {
         title: "Preservatives",
         avatar: "healing",
         dark: true,
-        text: ["Check your level of calcium"]
+        text: ["Control your heart rate during exercise"]
       }
     ]
   },
@@ -92,7 +92,7 @@ export default {
       {
         avatar: "warning",
         title: "Attention",
-        text: ["Avoid spending time in the city  "]
+        text: ["Avoid spending time in the city"]
       }
     ],
     horizontalList: [
