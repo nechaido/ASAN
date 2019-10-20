@@ -46,6 +46,7 @@ export default function LoginForm(props) {
           variant="contained"
           color="primary"
           fullWidth
+          disabled={!props.city}
           onClick={props.onSubmit}
         >
           Submit
