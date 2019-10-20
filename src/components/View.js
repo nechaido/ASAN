@@ -19,7 +19,7 @@ import InfoCard from "./InfoCard.js";
 export default function View(onBack, city) {
   return (
     <>
-      <AppBar position="static">
+      <AppBar position="static" style={{ marginBottom: "16px" }}>
         <Toolbar>
           <IconButton
             edge="start"
